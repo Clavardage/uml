@@ -20,11 +20,11 @@
 
 ### Sequence
 
-*TODO*
+#### ConversationService
+<img src="ConversationService.png" alt="">
 
-### Composite
-
-*TODO*
+#### DiscoveryService
+<img src="DiscoveryService_listen.png" alt="">
 
 
 ---------
